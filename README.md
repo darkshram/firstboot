@@ -31,12 +31,12 @@ Features.
 Options.
 =======
 
- -m, --moduledir        use an alternative module directory.
- -r, --reconfig         Run wizard again to re-configure system.
- -s, --autoscreenshot   Take automatic screenshots and save them into
-                        /root/firstboot-screenshots.
- -t, --test             Run in test mode.
- --themedir             Use an alternative theme directory.
+- -m, --moduledir        use an alternative module directory.
+- -r, --reconfig         Run wizard again to re-configure system.
+- -s, --autoscreenshot   Take automatic screenshots and save them into
+                         /root/firstboot-screenshots.
+- -t, --test             Run in test mode.
+- --themedir             Use an alternative theme directory.
 
 Requirements.
 =============

@@ -15,7 +15,7 @@ if os.uname()[4].startswith('s390'):
     data_files.append(('/etc/profile.d', ['scripts/firstboot.sh']))
     data_files.append(('/etc/profile.d', ['scripts/firstboot.csh']))
 
-setup(name='firstboot', version='2017.12.06',
+setup(name='firstboot', version='2017.12.09',
       description='Post-installation configuration utility',
       author='Joel Barrios', author_email='darkshram@gmail.com',
       url='https://github.com/darkshram/firstboot',

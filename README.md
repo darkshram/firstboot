@@ -70,5 +70,6 @@ Run-time:
 TODO (need help with this!).
 ===========================
 
-- Migrate to pygobject3 and Python 3.
+- Migrate to PyGobject
+- Migrate to Python 3.
 

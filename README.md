@@ -70,5 +70,5 @@ Run-time:
 TODO (need help with this!).
 ===========================
 
-- Try to migrate to pygobject.
+- Migrate to pygobject3 and Python 3.
 
